@@ -1,0 +1,6 @@
+.showCard {
+    height: 1em;
+    width: 2rem;
+    box-sizing: border-box;
+    border-radius: 2%;
+}
